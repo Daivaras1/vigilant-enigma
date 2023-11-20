@@ -1,0 +1,198 @@
+    1  git help init
+    2  git help init
+    3  git init
+    4  git --config --list
+    5  git --config --list --global
+    6  git config user.name test
+    7  git config user.email "test@gmail.com"
+    8  git config --list --local
+    9  vim
+   10  git config --global core.editor "code --wait"
+   11  git touch text1.txt
+   12  touch text1.txt
+   13  ls
+   14  nano text.txt
+   15  echo "Content B" > fil2.txt
+   16  git status
+   17  git status
+   18  git add file2.txt
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "working locally repository"
+   23  git status
+   24  git log
+   25  git commig --one line
+   26  git commig --oneline
+   27  git log --oneline
+   28  git log --oneline  -graph
+   29  git log --oneline  --graph
+   30  git log --oneline  --graph --all
+   31  git reset HEAD^
+   32  git reset --hard HEAD^
+   33  git status
+   34  echo "Hello world!" > fil3.txt
+   35  ls
+   36  touch test (1..10).txt
+   37  ls
+   38  touch test{1..10}.txt
+   39  ls
+   40  nano  test.7
+   41  git status
+   42  git add .
+   43  ls
+   44  git status
+   45  cat
+   46  history | cat
+   47  status
+   48  git commit -m "working locally repository"
+   49  ls
+   50  status
+   51  git status
+   52  git log --raw
+   53  git branch
+   54  git -m
+   55  git branch -M main
+   56  git branch -M main
+   57  git branch
+   58  git checkout dev
+   59  git branch dev
+   60  hit branch
+   61  git branch
+   62  git checkout dev
+   63  git branch
+   64  git branch
+   65  git-wtf
+   66  man git show-tree
+   67  git log --oneline --all
+   68  git log --oneline --all --graph
+   69  git checkout 'dev'
+   70  echo "Content A" > file50.txt
+   71  git log --oneline --all --graph
+   72  add .
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -m "Dev branch"
+   77  git status
+   78  git log --oneline --all --graph
+   79  gitk
+   80  git checkout dev
+   81  git | cat
+   82  git checkout main
+   83  git log --neline
+   84  hit log --oneline
+   85  git log --oneline
+   86  git checkout 95d0e4f
+   87  git checkout main
+   88  echo "Content C" > file8.txt
+   89  git checkout
+   90  git add .
+   91  git commit -m "Commit A"
+   92  git status
+   93  git commit -b feature-branch
+   94  git checkout -b feature-branch
+   95  echo "Feature Contecnt D" > file3.txt
+   96  git status
+   97  git add .
+   98  git status
+   99  git commit -m "Commit D"
+  100  git log
+  101  git log --online
+  102  git log --online --graph
+  103  git log --oneline --graph
+  104  git checkout main
+  105  git merge feature-branch
+  106  git log --oneline --graph
+  107  git log --oneline --graph
+  108  git log --oneline --graph
+  109  git branch -d feature-branch
+  110  git log --oneline --graph
+  111  git branch
+  112  git branch -d dev
+  113  git branch -d dev working locally repository
+  114  git branch -d working locally repository
+  115  git branch -d working-locally-repository
+  116  git log --oneline --graph
+  117  git branch -d working-locally-repository
+  118  git branch -d head
+  119  git branch -d Commit A
+  120  git branch -d Commit-A
+  121  git branch -D Commit-A
+  122  git branch -D Commit A
+  123  git checkout -b dev
+  124  git checkout -b dev
+  125  git add .
+  126  git add .
+  127  git branch
+  128  git branch -d git branch
+  129  git branch -d dev
+  130  git branch -D dev
+  131  git branch
+  132  git branch -D git branch
+  133  git branch -D git-branch
+  134  git branch -d git-branch
+  135  git branch -d git branch
+  136  git branch
+  137  git log --oneline --graph
+  138  git branch -d git 95d0e4f
+  139  git branch -d git 95d0e4f
+  140  git branch
+  141  git log --oneline --graph
+  142  git rebase -i Commit A
+  143  git branch
+  144  gti status
+  145  git branch
+  146  gti status
+  147  git log --oneline --graph
+  148  clear
+  149  git init
+  150  git config user.name Daivaras1
+  151  git config user.emai daivariux321@gmail.com
+  152  git config --list 
+  153  git touch text.txt
+  154  touch text.txt
+  155  git status
+  156  git add .
+  157  git commi -m "Try to push from local to upstream"
+  158  git commit -m "Try to push from local to upstream"
+  159  git commit -m "Try to push from local to upstream"
+  160  git status
+  161  git catch
+  162  git remote add origin https://github.com/Daivaras1/vigilant-enigma.git
+  163  git remote add origin https://github.com/Daivaras1/vigilant-enigma.git
+  164  git remote -v
+  165  git push origin main
+  166  git push -u origin main
+  167  git push -u origin main
+  168  git push -u origin main
+  169  git push -u origin main
+  170  git status
+  171  git branch
+  172  git push -u origin main
+  173  git remote add https://github.com/Daivaras1/vigilant-enigma.git
+  174  git status
+  175  git commit -m "Try to push from local to upstream"
+  176  git status
+  177  git commit -m "rom local to Upstream"
+  178  get init
+  179  git init
+  180  git config user.name Daivaras1
+  181  git config user.email daivariux321@gmail.com
+  182  git config --list --local
+  183  touch text.txt
+  184  git status
+  185  git add .
+  186  git commit -m "Try to push from local to upstream"
+  187  git status
+  188  git remote add origin https://github.com/Daivaras1/vigilant-enigma.git
+  189  git remote -v
+  190  git branch -M main
+  191  git push -u origin main
+  192  history
+  193  nano text.txt
+  194  touch text.txt
+  195  nano text.txt
+  196  [200~history > history.txt | git add . | git commit -m "prisidekit ka siandien gero nuveiket" | git push -u origin main
+  197  gistory > history.txt | git add . | git commit -m "Prisidekit ka siandien gero nuveiket" | git push -u origin main
+  198  history > history.txt | git add . | git commit -m "Prisidekit ka siandien gero nuveiket" | git push -u origin main
